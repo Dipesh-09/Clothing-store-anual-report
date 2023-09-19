@@ -1,7 +1,9 @@
 # Clothing Store Annual Sales Report 2022
 
 Welcome to the Clothing Store Annual Sales Report 2022 project! This repository contains the data and Excel dashboard for analyzing the annual sales data of a clothing store. The objective of this project was to gain insights that can help increase sales in 2023.
-
+<p align="center">
+ <img src=https://github.com/Dipesh-09/Clothing-store-anual-report/blob/main/Dashboard%20image.png>
+</p>
 ## Project Overview
 
 - **Objective**: Create an annual sales report for 2022 to understand customer demographics, preferences, and trends.
