@@ -27,9 +27,9 @@ Based on the insights, here's a suggested strategy to increase sales in 2023:
 
 ## Repository Contents
 
-- **data**: Contains the raw data used for analysis.
-- **Dashboard**: Output files and visualizations.
-- **src**: Excel files and scripts for data processing.
+- **[Data](https://github.com/Dipesh-09/Clothing-store-anual-report/blob/main/Dataset.xlsx)**: Contains the raw data used for analysis.
+- **[Dashboard](https://github.com/Dipesh-09/Clothing-store-anual-report/blob/main/Dashboard.xlsx)**: Output files and visualizations.
+- **[src](https://github.com/Dipesh-09/Clothing-store-anual-report/blob/main/Clothing%20Store%20Data%20Analysis.xlsx)**: Excel files and scripts for data processing.
 
 ## Acknowledgments
 
